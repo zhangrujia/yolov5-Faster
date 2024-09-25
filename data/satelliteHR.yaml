@@ -1,0 +1,9 @@
+path: /mnt/sdb1/rjzhang/yolov5/datasetHR
+train: images/train
+val: images/val
+
+# number of classes
+nc: 2
+
+# class names
+names: ['body','sailboard']
